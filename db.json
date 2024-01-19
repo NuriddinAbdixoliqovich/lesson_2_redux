@@ -1,0 +1,26 @@
+{
+  "orders": [
+    {
+      "id": "e5c1",
+      "title": "das",
+      "description": "asd",
+      "price": "33"
+    },
+    {
+      "id": "4b40",
+      "title": "das",
+      "description": "2",
+      "price": "22"
+    }
+  ],
+  "products": [
+    {
+      "title": "Samsung S24 Ultra",
+      "description": "The first phone which has AI",
+      "price": "1400 $",
+      "name": "24 Ultra",
+      "brand": "Samsung",
+      "id": "456"
+    }
+  ]
+}
